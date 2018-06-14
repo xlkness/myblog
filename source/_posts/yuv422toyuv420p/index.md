@@ -1,6 +1,10 @@
 ---
 title: yuv422转换为yuv420p
 date: 2018-06-12 22:25:24
+categories:
+- 开发
+tags:
+- 摄像头
 ---
 
 
