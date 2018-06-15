@@ -256,4 +256,4 @@ tags:
 
 下一篇上时间堆。
 
-[time_wheel]:1.jpeg "time_wheel"
+[time_wheel]:/img/time_wheel.jpeg "time_wheel"
